@@ -1,0 +1,50 @@
+h3{
+    font-family: serif;
+    color: rgb(117, 117, 117);
+   margin-top: 20px;
+   
+}
+img{
+   height: 28px;
+   border-radius: 10%;
+   border: 1px solid rgb(230, 231, 230);
+}
+#imagem-grande{
+    margin-left: 80px;
+    width: 210px;
+    height: 220px;
+}
+li{
+    margin: 40px;
+   font-family: serif;
+    color: rgb(9, 255, 0);
+    font-size: 25px;
+    border: 10px; 
+    
+}
+ul{
+    margin: 25px;
+}
+h1{
+    font-family: serif;
+    color: rgb(255, 255, 255);
+    
+}
+body{
+    background-image: linear-gradient(rgb(33, 255, 33), rgb(24, 179, 24), darkgreen, black 18% )
+   
+}
+a{
+   height: 30px;
+    color: rgb(1, 73, 16);
+}
+h6{
+    font-family: serif;
+    color: gray;
+    margin-left: 50px;
+    font-size: 15px;
+   margin-top: 50px;
+}
+
+        
+       
